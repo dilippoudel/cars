@@ -1,0 +1,48 @@
+{
+  "name": "my-app",
+  "version": "2.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.0.0",
+    "babel-loader": "^8.0.4",
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "joi-browser": "^13.4.0",
+    "react": "^16.6.0",
+    "react-app-rewired": "^1.6.2",
+    "react-confirm-alert": "^2.0.6",
+    "react-csv": "^1.0.18",
+    "react-dom": "^16.6.0",
+    "react-scripts": "2.0.5",
+    "react-skylight": "^0.5.1",
+    "react-table": "^6.8.6",
+    "react-toastify": "^4.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "app.js",
+  "devDependencies": {
+    "babel-plugin-styled-components-named": "^0.1.1",
+    "dotenv": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "me",
+  "license": "ISC"
+}
