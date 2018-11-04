@@ -151,7 +151,7 @@ addCar(car) {
                  data = {this.state.cars}
                  columns = {columns} 
                 filterable = {true} 
-                pageSize = {10}
+                defaultPageSize = {10}
                 />
                 <ToastContainer autoClose = {1500}/>
             </div>
